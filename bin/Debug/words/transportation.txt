@@ -1,0 +1,53 @@
+motorbike
+bus
+train
+tram
+taxi
+cab
+plane
+car
+ship
+scooter
+ferry
+bicycle
+underground
+subway
+passenger
+rush hour
+pedestrian
+crowded
+fast
+slowly
+traffic
+traffic jam
+left
+right
+drive
+ride
+get off
+get on
+journey
+queue
+transit
+check in
+credit card
+departure
+arrival
+arrive
+single
+return
+ticket
+luggage
+baggage
+passport
+security
+flight
+gate
+boarding pass
+boarding
+delayed
+aisle
+airport
+station
+railway station
+bus stop

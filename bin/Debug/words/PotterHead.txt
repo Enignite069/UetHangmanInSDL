@@ -1,0 +1,31 @@
+SQUIB
+MUDBLOOD
+QUIDDITCH
+ANIMAGUS
+HORCRUX
+AUROR
+DEATH EATER
+DEMENTOR
+BOGGART
+HIPPOGRIFF
+HOWLER
+LEGILIMENCY
+OCCLUMENCY
+Accio
+Alohomora
+Azkaban
+Basilisk
+Charm
+Chaser
+Chimaera
+Diagon Alley
+Expecto patronum
+Expelliarmus
+Avada Kedavra
+Galleon
+Giant
+Ghoul
+Gnomes
+Golden Snitch
+Grindylow
+Gryffindor house

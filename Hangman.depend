@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1620198174 source:d:\project\hangman\gameobject.cpp
+	"GameObject.h"
+	<ctime>
+	<tr1/unordered_map>
+	"SDLspace.h"
+	"optimize.h"
+
+1620198149 d:\project\hangman\gameobject.h
+	<ctime>
+	<string>
+	"SDLspace.h"
+
+1620117415 d:\project\hangman\sdlspace.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"painter.h"
+
+1620173188 d:\project\hangman\painter.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1620117415 d:\project\hangman\optimize.h
+	<string>
+
+1620140078 source:d:\project\hangman\main.cpp
+	"GameObject.h"
+	"SDLspace.h"
+
+1620117415 source:d:\project\hangman\optimize.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+
+1620173266 source:d:\project\hangman\painter.cpp
+	"painter.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1620117415 source:d:\project\hangman\sdlspace.cpp
+	"SDLspace.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"painter.h"
+
