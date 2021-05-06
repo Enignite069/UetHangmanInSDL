@@ -2,10 +2,10 @@
 # UetHangmanInSDL
 * Chương trình viết bằng ngôn ngữ C++
 * Sử dụng đồ họa SDL
+* Chương trình viết bằng Codeblocks và sử dụng SDL2, SDL2_image, SDL2_ttf
 # Hướng dẫn cài đặt
 1. Tải về và giải nén
-2. Chương trình viết bằng Codeblocks và sử dụng SDL2, SDL2_image, SDL2_ttf
-3. Chạy file .exe trong bin/Debug hoặc chạy file .cbp
+2. Chạy file .exe trong bin/Debug hoặc chạy file .cbp
 # In Game
 * Có thể chọn nhiều (hiện tại là 5) wordlist khác nhau, tùy vào chủ đề muốn học hỏi
 *	Có chức năng chọn độ khó với 2 mức dễ và khó
